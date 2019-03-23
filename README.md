@@ -1,2 +1,6 @@
 # Fraud_detection_EXL
-Machine Learning algorithm for insurance fraud detection
+Machine Learning script for insurance fraud detection
+Pre-processing
+Feature Engineering
+Model comparison and Final Model Selection
+Xgboost algorithm used
